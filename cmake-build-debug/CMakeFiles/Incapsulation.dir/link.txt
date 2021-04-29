@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Incapsulation.dir/main.cpp.o -o Incapsulation.exe -Wl,--out-implib,libIncapsulation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
